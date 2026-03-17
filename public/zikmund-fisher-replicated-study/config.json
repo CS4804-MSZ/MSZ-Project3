@@ -20,6 +20,9 @@
         "autoDownloadStudy": false,
         "withSidebar": true
     },
+    "importedLibraries": [
+        "graph-literacy-scale"
+    ],
     "components": {
         "introduction": {
             "type": "markdown",
@@ -319,7 +322,14 @@
             "introduction",
             "final-questions",
             "demographic-questions",
-            "subjective-numeracy-scale"
+            "subjective-numeracy-scale",
+            "$graph-literacy-scale.components.Q5",
+            "$graph-literacy-scale.components.Q6",
+            "$graph-literacy-scale.components.Q7",
+            "$graph-literacy-scale.components.Q8",
+            "$graph-literacy-scale.components.Q9",
+            "$graph-literacy-scale.components.Q11",
+            "$graph-literacy-scale.components.Q13"
         ]
     }
 }
