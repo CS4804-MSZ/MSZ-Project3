@@ -314,6 +314,33 @@
                     ]
                 }
             ]
+        },
+        "familiarity-question": {
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "csq",
+                    "prompt": "How familiar are you with the medical test results like the ones discussed in the survey?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all familiar", "value": 1 },
+                        { "label": "Extremely familiar", "value": 5 }
+                    ]
+                }
+            ]
+        },
+        "thanks": {
+            "type": "markdown",
+            "path": "zikmund-fisher-replicated-study/assets/thanks.md",
+            "response": [],
+            "meta": {
+                "taskId": "thanks",
+                "trackTime": true
+            }
         }
     },
     "sequence": {
@@ -329,7 +356,8 @@
             "$graph-literacy-scale.components.Q8",
             "$graph-literacy-scale.components.Q9",
             "$graph-literacy-scale.components.Q11",
-            "$graph-literacy-scale.components.Q13"
+            "$graph-literacy-scale.components.Q13",
+            "thanks"
         ]
     }
 }
