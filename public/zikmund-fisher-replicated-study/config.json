@@ -33,6 +33,949 @@
                 "trackTime": true
             }
         },
+
+        "Platelet_slightly_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_slightly_table.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_table_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_table_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_table",
+                "trackTime": true
+            }
+        },
+        "Platelet_slightly_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_slightly_simple.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_simple_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_simple_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+        "Platelet_slightly_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_slightly_block.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_block_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+        "Platelet_slightly_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_slightly_gradient.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_gradient_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+
+        "Platelet_further_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_further_table.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_table_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_table_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_table",
+                "trackTime": true
+            }
+        },
+        "Platelet_further_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_further_simple.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_simple_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_simple_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+        "Platelet_further_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_further_block.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_block_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+        "Platelet_further_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/platelet_further_gradient.html",
+            "response": [
+                {
+                    "id": "Platelet_slightly_gradient_alarming",
+                    "prompt": "How alarming does this platelet count result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Platelet_slightly_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your platelet count test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Platelet_slightly_simple",
+                "trackTime": true
+            }
+        },
+
+        "ALT_slightly_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_slightly_table.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_slightly_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_slightly_simple.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_slightly_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_slightly_block.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_slightly_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_slightly_gradient.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+
+        "ALT_further_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_further_table.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_further_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_further_simple.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_further_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_further_block.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+        "ALT_further_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_further_gradient.html",
+            "response": [
+                {
+                    "id": "ALT_further_block_alarming",
+                    "prompt": "How alarming does this alanine aminotransferase (ALT) result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "ALT_further_block_action",
+                    "prompt": "Which of the following best describes what you would do in response to your ALT test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "ALT_further_block",
+                "trackTime": true
+            }
+        },
+
+        "Creatinine_slightly_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_slightly_table.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_slightly_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_slightly_simple.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_slightly_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_slightly_block.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_slightly_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_slightly_gradient.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+
+        "Creatinine_further_table": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_further_table.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_further_simple": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_further_simple.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_further_block": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_further_block.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+        "Creatinine_further_gradient": {
+            "type": "website",
+            "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_further_gradient.html",
+            "response": [
+                {
+                    "id": "Creatinine_further_gradient_alarming",
+                    "prompt": "How alarming does this serum creatinine result feel to you?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "slider",
+                    "step": 1,
+                    "spacing": 1,
+                    "options": [
+                        { "label": "Not at all", "value": 1 },
+                        { "label": "Very", "value": 6 }
+                    ]
+                },
+                {
+                    "id": "Creatinine_further_gradient_action",
+                    "prompt": "Which of the following best describes what you would do in response to your serum creatinine test result?",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "dropdown",
+                    "options": [
+                        "Nothing",
+                        "Talk to your doctor about this test result at your next regular appointment",
+                        "Ask to see your doctor at the first available appointment",
+                        "Go to a hospital or your doctor’s office tomorrow",
+                        "Go to a hospital as soon as you can get free later today",
+                        "Go to a hospital immediately"
+                    ]
+                }
+            ],
+            "instructionLocation": "aboveStimulus",
+            "meta": {
+                "taskId": "Creatinine_further_gradient",
+                "trackTime": true
+            }
+        },
+
         "final-questions": {
             "type": "questionnaire",
             "response": [
@@ -333,6 +1276,7 @@
                 }
             ]
         },
+
         "thanks": {
             "type": "markdown",
             "path": "zikmund-fisher-replicated-study/assets/thanks.md",
@@ -347,9 +1291,73 @@
         "order": "fixed",
         "components": [
             "introduction",
-            "final-questions",
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "Platelet_slightly_table",
+                    "Platelet_slightly_simple",
+                    "Platelet_slightly_block",
+                    "Platelet_slightly_gradient"
+                ]
+            },
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "Platelet_further_table",
+                    "Platelet_further_simple",
+                    "Platelet_further_block",
+                    "Platelet_further_gradient"
+                ]
+            },
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "ALT_slightly_table",
+                    "ALT_slightly_simple",
+                    "ALT_slightly_block",
+                    "ALT_slightly_gradient"
+                ]
+            },
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "ALT_further_table",
+                    "ALT_further_simple",
+                    "ALT_further_block",
+                    "ALT_further_gradient"
+                ]
+            },
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "Creatinine_slightly_table",
+                    "Creatinine_slightly_simple",
+                    "Creatinine_slightly_block",
+                    "Creatinine_slightly_gradient"
+                ]
+            },
+            {
+                "order": "random",
+                "numSamples": 1,
+                "components": [
+                    "Creatinine_further_table",
+                    "Creatinine_further_simple",
+                    "Creatinine_further_block",
+                    "Creatinine_further_gradient"
+                ]
+            },
+
             "demographic-questions",
             "subjective-numeracy-scale",
+            "chews-screening-question",
+            "familiarity-question",
+
+            "final-questions",
             "$graph-literacy-scale.components.Q5",
             "$graph-literacy-scale.components.Q6",
             "$graph-literacy-scale.components.Q7",
@@ -357,6 +1365,7 @@
             "$graph-literacy-scale.components.Q9",
             "$graph-literacy-scale.components.Q11",
             "$graph-literacy-scale.components.Q13",
+
             "thanks"
         ]
     }
