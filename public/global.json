@@ -54,6 +54,7 @@
     "test-randomization",
     "test-skip-logic",
     "test-step-logic",
+    "basic-questionnaire-study"
   ],
   "configs": {
     "rrnl": {
@@ -234,6 +235,10 @@
     },
     "example-VLAT-adaptive": {
       "path": "example-VLAT-adaptive/config.json",
+      "test": true
+    },
+    "basic-questionnaire-study": {
+      "path": "basic-questionnaire-study/config.json",
       "test": true
     }
   }
